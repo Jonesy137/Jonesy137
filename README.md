@@ -13,7 +13,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,github" width="120"/>
 </p>
-
-## Extras :)
-
-Regular FPL manager, current best overall rank : 59k🌍 (2022/23)
